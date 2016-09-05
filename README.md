@@ -8,7 +8,7 @@ Specifically I will be working in an implementation of python called Anaconda th
 requisite modules for the work natively.
 
 Eventually the goal is to make a supervised learning predictive system that is able to train itsself from historical data,
-extract relevant features, build a deep neural network, and make a binary decision.
+extract relevant features, build a deep neural network, and make a binary prediction to some degree of accuracy.
 
 See the wiki for the papers, theses, and tutorials I will be going through in my research/learning. 
 
